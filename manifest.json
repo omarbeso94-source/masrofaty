@@ -1,0 +1,11 @@
+{
+  "name": "مصروفاتي",
+  "short_name": "مصروفاتي",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1117",
+  "theme_color": "#101820",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
